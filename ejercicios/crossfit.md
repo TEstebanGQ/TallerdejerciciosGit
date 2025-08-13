@@ -12,3 +12,7 @@ Entrenamiento funcional de alta intensidad que combina fuerza y cardio.
 1. Calienta adecuadamente.
 2. Realiza circuito con repeticiones cronometradas.
 3. Descansa lo justo.
+
+## Consejos
+- Escala los ejercicios a tu nivel.
+- Mantén técnica correcta bajo fatiga.
