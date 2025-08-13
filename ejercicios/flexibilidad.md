@@ -12,3 +12,8 @@ Mejora el rango de movimiento y reduce rigidez muscular.
 1. Estiramientos dinámicos antes.
 2. Estáticos después.
 3. Mantén 15-30 segundos.
+
+## Consejos
+- No rebotes.
+- Respira profundamente.
+
