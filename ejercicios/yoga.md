@@ -12,3 +12,8 @@ Práctica física y mental que mejora flexibilidad, equilibrio y relajación.
 1. Prepara un espacio tranquilo.
 2. Realiza posturas guiadas.
 3. Mantén respiración consciente.
+
+
+## Consejos
+- Practica sin prisas.
+- Usa colchoneta antideslizante.
