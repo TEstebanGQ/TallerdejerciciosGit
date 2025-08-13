@@ -12,3 +12,7 @@ Deporte de combate que mejora resistencia y coordinación.
 1. Calienta articulaciones.
 2. Practica técnica de golpeo.
 3. Alterna combinaciones y defensa.
+
+## Consejos
+- Usa vendajes y guantes.
+- Mantén guardia alta.
