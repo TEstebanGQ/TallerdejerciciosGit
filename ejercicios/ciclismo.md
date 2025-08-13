@@ -12,3 +12,7 @@ Ejercicio cardiovascular de bajo impacto realizado en bicicleta.
 1. Ajusta altura del asiento.
 2. Pedalea a ritmo constante.
 3. Alterna intensidades.
+
+## Consejos
+- Usa casco.
+- Mantén hidratación.
